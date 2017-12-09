@@ -1,0 +1,22 @@
+.big {
+    position: absolute;
+    left: 300px;
+    width: 500px;
+    height: 500px;
+    background-color: lightgray;
+}
+.size-128 {
+    border: 1px red solid;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    width: 128px;
+}
+
+.menuitem {
+    font-size: 3em;
+    display: inline;
+    background-color: pink;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}

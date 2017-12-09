@@ -1,0 +1,36 @@
+
+.big {
+    font-size: 3em;
+    font-family: 'Bangers', 'cursive';
+}
+
+.small {
+    font-size: 0.5em;
+    font-family: 'Syncopate', sans-serif;  
+}
+
+.circle {
+    width: 200px;
+    border-radius: 100px;
+    border: 10px red solid;
+    padding: 10px; 
+    margin-left: 50px;
+
+}
+
+.h1-monospace {
+    font-family: 'Monoton', cursive;
+    text-shadow: 5px 5px 7px rgb(128, 0, 11) ;
+    color: lightcoral;
+   
+}
+.h1-5em {
+    font-size: 5em;
+}
+
+.container {
+    position: relative;
+    top: 50px;
+    margin-top: 70px;
+
+}

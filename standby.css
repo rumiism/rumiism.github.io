@@ -1,0 +1,19 @@
+
+.big {
+    font-size: 3em;
+    font-family: 'Bangers', 'cursive';
+}
+
+.small {
+    font-size: 1em;
+    font-family: 'Work Sans', sans-serif;  
+}
+
+.circle {
+    width: 200px;
+    border-radius: 100px;
+    border: 10px red solid;
+    padding: 10px; 
+    margin-left: 50px;
+
+}

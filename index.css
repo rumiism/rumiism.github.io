@@ -2,9 +2,6 @@
 .container {
     color: black;
     margin-top: 180px;
-    margin-bottom: 100px;
-    margin-left: 120px;
-    margin-right: 120px;
     position: relative;
     font-family: 'Rubik', sans-serif;
     background-blend-mode: color-dodge;

@@ -2,16 +2,14 @@
 .container {
     color: black;
     margin-top: 180px;
-    position: relative;
+    position: absolute;
     font-family: 'Rubik', sans-serif;
     padding: 35px 70px;
     background-blend-mode: color-dodge;
-    
 }
 
 .panel-body {
     height: 300px;
-    overflow-y: scroll;
 }
 
 .btn {

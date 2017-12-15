@@ -4,7 +4,7 @@
     margin-top: 180px;
     margin-bottom: 100px;
     margin-left: 120px;
-    position: relative;
+    position: absolute;
     font-family: 'Rubik', sans-serif;
     padding: 20px, 40px;
     background-blend-mode: color-dodge;

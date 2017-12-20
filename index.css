@@ -1,4 +1,10 @@
-
+.background_image {
+    -webkit-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
+    background-repeat: repeat;
+}
+    
 .container {
     color: black;
     margin-top: 180px;

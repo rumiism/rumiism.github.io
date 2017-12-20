@@ -21,7 +21,7 @@
 }
 
 .big {
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .small {
@@ -35,4 +35,9 @@
 
 img:hover {
     opacity: 0.5;
+}
+
+.panel-body {
+    height: 500px;
+    overflow-y: scroll;
 }

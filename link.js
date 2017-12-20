@@ -2,9 +2,9 @@
 var user = {
     "data": {
         "id": 1,
-        "first_name": "mister",
-        "last_name": "fish",
-        "avatar": "http://www.bigshocking.com/wp-content/uploads/2014/10/The-Leviathan.jpg"
+        "first_name": "george",
+        "last_name": "bluth",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
     }
 };
 
@@ -27,4 +27,5 @@ function userTemplate(fname, lname, imgUrl){
         '<h4 class="media-heading">' + fname + ' ' +  lname + '</h4>' +
         'description</div></div>';
     return template;
+}
 }
